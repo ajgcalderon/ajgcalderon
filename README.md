@@ -43,8 +43,7 @@ Desarrollador web **Full Stack** con amplia experiencia en el desarrollo de sist
 ### Bases de Datos
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![Mongo](![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Herramientas
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
@@ -115,7 +114,7 @@ Desarrollador web **Full Stack** con amplia experiencia en el desarrollo de sist
 ## 🤝 Colaboración y Contacto
 
 - 💼 **Empresa actual**: [Grupo Purdy](https://github.com/Grupo-Purdy)
-- 📧 **Email**: [gmail](ajgcalderon1@gmail.com)
+- 📧 **Email**: [Gmail](mailto:ajgcalderon1@gmail.com)
 - 💬 **LinkedIn**: [andres-gonzalez-118083217](https://linkedin.com/in/andres-gonzalez-118083217)
 - 🌐 **Ubicación**: Caracas, Venezuela
 
