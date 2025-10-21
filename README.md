@@ -43,13 +43,13 @@ Desarrollador web **Full Stack** con amplia experiencia en el desarrollo de sist
 ### Bases de Datos
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
 ### Herramientas
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/amazon-web-service)
+![AWS](https://img.shields.io/badge/amazon-web-service?style=flat&logo=amazon-web-services&logoColor=white)
 
 
 ---
@@ -96,18 +96,6 @@ Desarrollador web **Full Stack** con amplia experiencia en el desarrollo de sist
 - **Tecnologías**: TypeScript, Node.js
 
 *Proyecto privado en desarrollo*
-
----
-
-## 📊 Estadísticas GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajgcalderon&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajgcalderon&layout=compact&theme=radical&hide_border=true)
-
-</div>
 
 ---
 
