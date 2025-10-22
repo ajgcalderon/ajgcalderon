@@ -135,7 +135,7 @@ Demo y código no público por políticas empresariales.
 
 - 💼 **Empresa actual**: [Grupo Purdy](https://github.com/Grupo-Purdy)
 - 📧 **Email**: [Gmail](mailto:ajgcalderon1@gmail.com)
-- 💬 **LinkedIn**: [andres-gonzalez-118083217](https://linkedin.com/in/ajgcalderon)
+- 💬 **LinkedIn**: [Andrés González](https://linkedin.com/in/ajgcalderon)
 - 🌐 **Ubicación**: Caracas, Venezuela
 
 ### 🎯 Busco colaborar en:
