@@ -51,13 +51,40 @@ Desarrollador web **Full Stack** con amplia experiencia en el desarrollo de sist
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/amazon-web-service?style=flat&logo=amazon-web-services&logoColor=white)
 
-
 ---
 
 ## 🏆 Proyectos Destacados
 
+### 📱 Purdy GO
+**Aplicación móvil empresarial de gestión integral para clientes**
+
+Purdy GO es la solución móvil diseñada para **Grupo Purdy** que revoluciona la experiencia del cliente al centralizar todos los servicios automotrices en una sola plataforma. Esta app permite a los usuarios gestionar de manera completa e intuitiva todo lo relacionado con sus vehículos.
+
+**Características principales:**
+- 🚗 **Gestión de vehículos**: Administración completa del perfil de cada vehículo del cliente
+- 🔧 **Solicitudes de mantenimiento**: Agendar y dar seguimiento a servicios de taller en tiempo real
+- 💳 **Sistema de pagos integrado**: Procesamiento seguro de pagos de servicios y productos
+- 📊 **Historial completo**: Acceso a todo el registro de servicios y transacciones
+- 🚙 **Servicios de movilidad**: Solicitud de vehículos sustitutos y servicios de grúa
+- 🔔 **Notificaciones inteligentes**: Alertas de mantenimiento preventivo y recordatorios
+- 📍 **Geolocalización**: Ubicación de talleres y seguimiento de servicios
+
+**Tecnologías utilizadas:**
+- **Frontend Mobile**: Flutter, Dart
+- **Backend**: .NET Core, C#, Microservicios
+- **Base de Datos**: SQL Server
+- **Servicios**: Azure, APIs REST, Push Notifications
+
+**Impacto:**
+Purdy GO ha transformado la relación entre Grupo Purdy y sus clientes, reduciendo los tiempos de gestión en un 60% y mejorando significativamente la satisfacción del usuario. La app procesa miles de transacciones mensuales y se ha convertido en el canal principal de comunicación con los clientes.
+
+*Proyecto empresarial confidencial - Demo no disponible*
+
+---
+
 ### 🚛 Purdy Mobility System (PMS)
 **Sistema integral de gestión logística y movilidad**
+
 - **Microservicios**: Autenticación, Facturación, Gestión de Flota, Pedidos, Comunicaciones
 - **Aplicaciones**: Web Admin (Vue.js), App de Conductores, App de Usuarios
 - **Tecnologías**: C#, .NET, Vue.js, Flutter, SQL Server
@@ -68,6 +95,7 @@ Desarrollador web **Full Stack** con amplia experiencia en el desarrollo de sist
 
 ### 💳 PayPlus
 **Plataforma de pagos y gestión financiera**
+
 - Sistema de procesamiento de pagos
 - Panel administrativo para comercios
 - API REST para integraciones
@@ -79,23 +107,13 @@ Desarrollador web **Full Stack** con amplia experiencia en el desarrollo de sist
 
 ### 🏦 GirosVenezuela
 **Sistema de gestión de giros y transferencias**
+
 - Procesamiento de transacciones financieras
 - Panel de administración
 - Reportes y auditoría
 - **Tecnologías**: PHP, MySQL, JavaScript
 
 [![Ver Proyecto](https://img.shields.io/badge/-Ver%20Código-181717?style=flat&logo=github&logoColor=white)](https://github.com/ajgcalderon/GirosNuevo)
-
----
-
-### 🛠️ ApiQuick
-**Generador automático de APIs REST**
-- Creación de APIs sin programación
-- Interface visual intuitiva
-- Documentación automática
-- **Tecnologías**: TypeScript, Node.js
-
-*Proyecto privado en desarrollo*
 
 ---
 
@@ -107,6 +125,7 @@ Desarrollador web **Full Stack** con amplia experiencia en el desarrollo de sist
 - 🌐 **Ubicación**: Caracas, Venezuela
 
 ### 🎯 Busco colaborar en:
+
 - Proyectos de **fintech** y **pagos digitales**
 - Sistemas de **logística** y **movilidad**
 - Arquitecturas de **microservicios**
