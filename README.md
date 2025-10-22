@@ -49,24 +49,21 @@ Desarrollador web **Full Stack** con amplia experiencia en el desarrollo de sist
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/amazon-web-service?style=flat&logo=amazon-web-services&logoColor=white)
 
 ---
 
-## 🏆 Proyectos Destacados
+## 💼 Proyectos Destacados
 
 ### 📱 Purdy GO
-**Aplicación móvil empresarial de gestión integral para clientes**
+**Aplicación móvil de servicios automotrices**
 
-Purdy GO es la solución móvil diseñada para **Grupo Purdy** que revoluciona la experiencia del cliente al centralizar todos los servicios automotrices en una sola plataforma. Esta app permite a los usuarios gestionar de manera completa e intuitiva todo lo relacionado con sus vehículos.
+App móvil integral para clientes de Grupo Purdy que conecta usuarios con una amplia gama de servicios automotrices: compra de repuestos, agenda de talleres mecánicos, lubricentros, servicios de grúa y asistencia vial.
 
 **Características principales:**
-- 🚗 **Gestión de vehículos**: Administración completa del perfil de cada vehículo del cliente
-- 🔧 **Solicitudes de mantenimiento**: Agendar y dar seguimiento a servicios de taller en tiempo real
-- 💳 **Sistema de pagos integrado**: Procesamiento seguro de pagos de servicios y productos
-- 📊 **Historial completo**: Acceso a todo el registro de servicios y transacciones
-- 🚙 **Servicios de movilidad**: Solicitud de vehículos sustitutos y servicios de grúa
-- 🔔 **Notificaciones inteligentes**: Alertas de mantenimiento preventivo y recordatorios
+- 🛒 **E-commerce**: Catálogo de repuestos y accesorios con carrito de compras y pagos integrados
+- 🔧 **Agenda de Talleres**: Reserva y gestión de citas para servicios mecánicos
+- 🚗 **Servicios de Movilidad**: Solicitud de grúas y asistencia vial en tiempo real
+- 👤 **Perfil de Usuario**: Historial de servicios, vehículos registrados y preferencias
 - 📍 **Geolocalización**: Ubicación de talleres y seguimiento de servicios
 
 **Tecnologías utilizadas:**
@@ -83,13 +80,30 @@ Purdy GO ha transformado la relación entre Grupo Purdy y sus clientes, reducien
 ---
 
 ### 🚛 Purdy Mobility System (PMS)
-**Sistema integral de gestión logística y movilidad**
 
-- **Microservicios**: Autenticación, Facturación, Gestión de Flota, Pedidos, Comunicaciones
-- **Aplicaciones**: Web Admin (Vue.js), App de Conductores, App de Usuarios
-- **Tecnologías**: C#, .NET, Vue.js, Flutter, SQL Server
+**Plataforma integral para la transformación digital del sector movilidad y logística empresarial.**
 
-*Demo no disponible por políticas de confidencialidad empresarial*
+El PMS (Purdy Mobility System) es un ecosistema modular de microservicios desarrollado para Grupo Purdy, que conecta toda la operación automotriz y de movilidad en una sola plataforma tecnológica. Engloba desde la gestión de flotas y conductores, hasta facturación, autenticación de usuarios, pedidos, pagos, comunicaciones y aplicativos móviles.
+
+**Principales módulos y apps:**
+- PMS_AUTH: Sistema de autenticación y gestión de usuarios, clientes y proveedores
+- PMS_BILLING: Facturación, administración de cobros y reportes
+- PMS_FLEET: Gestión de flota vehicular, documentos y asignaciones
+- PMS_ORDER: Pedidos de envío y servicios automotrices
+- PMS_USER_APP: App móvil para clientes y usuarios finales
+- PMS_DRIVER_APP: App móvil para conductores y logística de viajes
+- PMS_COMMUNICATION: Envío de SMS, emails y notificaciones push
+- PMS_web_admin: Panel de administración centralizado en Vue.js
+
+**Tecnologías clave:**
+- .NET 8, C#, Node.js, Vue.js, TypeScript, Flutter, SQL Server, Firebase, MongoDB
+- Arquitectura de microservicios y APIs REST
+- Integración con sistemas externos como Softland
+
+**Impacto:**
+PMS automatiza procesos, reduce gastos administrativos, mejora la experiencia de usuarios, digitaliza la logística operativa y permite escalar la operación de movilidad y servicios automotrices a nivel empresarial y retail.
+
+Demo y código no público por políticas empresariales.
 
 ---
 
@@ -125,7 +139,6 @@ Purdy GO ha transformado la relación entre Grupo Purdy y sus clientes, reducien
 - 🌐 **Ubicación**: Caracas, Venezuela
 
 ### 🎯 Busco colaborar en:
-
 - Proyectos de **fintech** y **pagos digitales**
 - Sistemas de **logística** y **movilidad**
 - Arquitecturas de **microservicios**
