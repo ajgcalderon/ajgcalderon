@@ -132,11 +132,9 @@ Demo y código no público por políticas empresariales.
 ---
 
 ### 🚀 ¿Cómo puedo ayudarte a escalar?
-**Desarrollo de Apps Móviles (Flutter):** Llevo tu negocio al bolsillo de tus clientes (iOS & Android) con una sola base de código.
-
-**Sistemas Enterprise (.NET/Microservicios):** Arquitecturas robustas para cuando tu Excel o tu sistema actual ya no aguantan más.
-
-**Automatización con IA:** Reduzco tus costos operativos automatizando atención al cliente y procesos repetitivos.
+- **Desarrollo de Apps Móviles (Flutter):** Llevo tu negocio al bolsillo de tus clientes (iOS & Android) con una sola base de código.
+- **Sistemas Enterprise (.NET/Microservicios):** Arquitecturas robustas para cuando tu Excel o tu sistema actual ya no aguantan más.
+- **Automatización con IA:** Reduzco tus costos operativos automatizando atención al cliente y procesos repetitivos.
 
 ---
 
