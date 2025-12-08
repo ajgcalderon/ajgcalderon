@@ -15,8 +15,8 @@
 
 Desarrollador web **Full Stack** con amplia experiencia en el desarrollo de sistemas empresariales, aplicaciones móviles y APIs robustas. Especializado en arquitecturas de microservicios y soluciones escalables para empresas de diversos sectores.
 
-- 🔭 Actualmente trabajando en **@Grupo-Purdy** desarrollando el **Purdy GO**
-- 🌱 Explorando **Inteligencia Artificial** y **Automatización de Procesos**
+- 🔭 Desarrollador de software en **@Grupo-Purdy** | **Disponible para Consultoría y Desarrollo de MVP para Startups**
+- 🌱 Integro **Inteligencia Artificial** (LLMs, RAG) y **Automatización** en flujos de trabajo empresariales
 - 💼 Experiencia en proyectos de **fintech**, **logística** y **gestión empresarial**
 - 🎯 Enfocado en crear soluciones tecnológicas que generen impacto real
 
@@ -128,6 +128,15 @@ Demo y código no público por políticas empresariales.
 - **Tecnologías**: PHP, MySQL, JavaScript
 
 [![Ver Proyecto](https://img.shields.io/badge/-Ver%20Código-181717?style=flat&logo=github&logoColor=white)](https://github.com/ajgcalderon/GirosNuevo)
+
+---
+
+### 🚀 ¿Cómo puedo ayudarte a escalar?
+**Desarrollo de Apps Móviles (Flutter):** Llevo tu negocio al bolsillo de tus clientes (iOS & Android) con una sola base de código.
+
+**Sistemas Enterprise (.NET/Microservicios):** Arquitecturas robustas para cuando tu Excel o tu sistema actual ya no aguantan más.
+
+**Automatización con IA:** Reduzco tus costos operativos automatizando atención al cliente y procesos repetitivos.
 
 ---
 
